@@ -1,5 +1,9 @@
 # Recipe Book
 
-A coolection of recipes written in Markdown.
+A collection of recipes written in Markdown.
 
-## Recipes- [Plov](recipes/plov.md)
+## Recipes
+
+- [Plov](recipes/plov.md)
+
+_More recipes coming soon._
