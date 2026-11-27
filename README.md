@@ -2,4 +2,4 @@
 
 A coolection of recipes written in Markdown.
 
-## Recipes
+## Recipes- [Plov](recipes/plov.md)
